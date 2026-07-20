@@ -1,4 +1,4 @@
-# Honly Cats API
+# Holy Cats API
 
 Honly Cats API es una API REST desarrollada en C, diseñada para ofrecer un servicio ligero y eficiente para la gestión y consulta de información relacionada con gatos. El proyecto prioriza el rendimiento, la simplicidad y una arquitectura fácil de mantener.
 
