@@ -22,7 +22,7 @@ Honly Cats API es una API REST desarrollada en C, diseñada para ofrecer un serv
 Clone el repositorio:
 
 ```bash
-git clone https://github.com/<usuario>/honly-cats.git
+git clone https://github.com/kittyhos/holy-cats.git
 cd honly-cats
 ```
 
