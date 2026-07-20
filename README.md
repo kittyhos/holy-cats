@@ -64,20 +64,6 @@ http://localhost:8080
 }
 ```
 
-## Estructura del proyecto
-
-```
-honly-cats/
-├── include/
-├── src/
-├── data/
-├── docs/
-├── tests/
-├── Makefile
-├── README.md
-└── LICENSE
-```
-
 ## Objetivos
 
 * Proporcionar una implementación de referencia de una API REST en C.
